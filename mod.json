@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"android": "2.2081"
+	},
+	"id": "pablo.startpos-tracker",
+	"name": "StartPos Tracker",
+	"version": "v2.0.0",
+	"developer": "pablo",
+	"description": "Mejor progreso desde cada start pos, con panel de mejores runs y todas las runs. Se guarda entre sesiones."
+}
